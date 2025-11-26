@@ -1,0 +1,17 @@
+#heading{
+    color: brown;
+}
+
+#root{
+    background: rgb(178, 145, 145);
+}
+#parent{
+    background: rgb(114, 41, 41);
+}
+#child
+{
+    background-color: aqua;
+}
+#child2{
+    background-color: aquamarine;
+}
