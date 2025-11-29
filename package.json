@@ -1,0 +1,27 @@
+{
+  "name": "react-code",
+  "version": "1.0.0",
+  "description": "react projects",
+  "homepage": "https://github.com/malipeddigajanana/React#readme",
+  "bugs": {
+    "url": "https://github.com/malipeddigajanana/React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malipeddigajanana/React.git"
+  },
+  "license": "ISC",
+  "author": "gajanana",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}
